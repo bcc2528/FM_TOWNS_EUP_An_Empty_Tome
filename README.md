@@ -1,2 +1,10 @@
-# FM_TOWNS_EUP_An_Empty_Tome
-Castlevania: Order of Ecclesia BGM "An Empty Tome" EUP (FM TOWNS standard music file)
+# FM TOWNS用EUP「黄昏の聖痕」(ゲーム"悪魔城ドラキュラ 奪われた刻印"より)
+FM TOWNSの標準音楽ファイルEUPフォーマットの曲「黄昏の聖痕」(ゲーム"悪魔城ドラキュラ 奪われた刻印"より)
+
+MMLからEUPへの変換はフリーソフトウェアコレクション6(フリコレ6)収録の「HEat」、FM音源のパラメータファイルFMBとPCM音源のPCMデータファイルPMBの編集にはインターネット上にアーカイブが残っていた「J-SOUND 1.03K」(旧版であればフリコレ11にも収録済み)を使用しました。
+
+一部テンポが乱れているような印象なのと、ピアノの音色が上手くできなかったので出来はお察しください。
+
+
+TownsOS標準のEUPプレーヤーでの演奏例
+https://www.youtube.com/watch?v=XpWo3SsnO7Q
